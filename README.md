@@ -18,6 +18,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [1051-height-checker](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Stack
@@ -60,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -77,6 +80,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
