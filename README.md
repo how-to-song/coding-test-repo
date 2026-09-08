@@ -10,6 +10,7 @@
 | [0506-relative-ranks](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
 | [0661-image-smoother](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0661-image-smoother/) | Easy |
 | [0739-daily-temperatures](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [0867-transpose-matrix](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
 | [1046-last-stone-weight](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -60,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
+| [0867-transpose-matrix](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -138,6 +140,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0661-image-smoother](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0661-image-smoother/) | Easy |
+| [0867-transpose-matrix](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
