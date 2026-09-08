@@ -79,6 +79,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
