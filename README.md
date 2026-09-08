@@ -33,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
@@ -54,4 +55,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
