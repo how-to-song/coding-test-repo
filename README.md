@@ -81,6 +81,7 @@
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -89,5 +90,6 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
