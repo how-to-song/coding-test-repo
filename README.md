@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
@@ -130,6 +131,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0278-first-bad-version](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
