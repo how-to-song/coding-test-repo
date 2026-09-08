@@ -65,6 +65,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -75,6 +76,7 @@
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -92,4 +94,20 @@
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
