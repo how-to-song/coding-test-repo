@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
@@ -17,6 +18,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0506-relative-ranks](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
 | [1051-height-checker](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
@@ -33,6 +35,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
