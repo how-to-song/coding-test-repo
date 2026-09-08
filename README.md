@@ -16,6 +16,7 @@
 | [0867-transpose-matrix](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
 | [1046-last-stone-weight](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
+| [1122-relative-sort-array](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -24,16 +25,19 @@
 | [0349-intersection-of-two-arrays](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0506-relative-ranks](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
 | [1051-height-checker](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
+| [1122-relative-sort-array](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [1051-height-checker](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
+| [1122-relative-sort-array](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
+| [1122-relative-sort-array](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +86,7 @@
 | [0383-ransom-note](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+| [1122-relative-sort-array](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,4 +180,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->
