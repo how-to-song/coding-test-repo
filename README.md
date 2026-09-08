@@ -9,6 +9,7 @@
 | [0739-daily-temperatures](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [1046-last-stone-weight](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +113,7 @@
 | [0506-relative-ranks](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
