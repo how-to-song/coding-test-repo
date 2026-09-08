@@ -14,6 +14,7 @@
 | [0704-binary-search](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0867-transpose-matrix](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [1046-last-stone-weight](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
@@ -24,6 +25,7 @@
 | [0088-merge-sorted-array](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0506-relative-ranks](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [1051-height-checker](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 ## Counting Sort
@@ -46,6 +48,7 @@
 | [0234-palindrome-linked-list](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0844-backspace-string-compare](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
