@@ -10,6 +10,7 @@
 | [0496-next-greater-element-i](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
 | [0661-image-smoother](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0661-image-smoother/) | Easy |
+| [0704-binary-search](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0867-transpose-matrix](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
 | [1046-last-stone-weight](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
@@ -131,6 +132,7 @@
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0704-binary-search](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
