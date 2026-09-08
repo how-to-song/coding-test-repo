@@ -130,6 +130,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0704-binary-search](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
@@ -168,4 +169,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
