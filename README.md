@@ -5,12 +5,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+| [0506-relative-ranks](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
 | [0739-daily-temperatures](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [1046-last-stone-weight](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0506-relative-ranks](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
 | [1051-height-checker](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -106,6 +108,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0506-relative-ranks](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 ## Binary Tree
