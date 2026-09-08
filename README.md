@@ -170,6 +170,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -191,4 +192,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
