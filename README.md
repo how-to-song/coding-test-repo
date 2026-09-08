@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [1051-height-checker](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
 ## Sorting
@@ -29,6 +30,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 ## Simulation
@@ -38,5 +40,10 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/how-to-song/coding-test-repo/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
